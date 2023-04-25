@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates xml:space="preserve">
+    <t t-name="otp_fields">
+        <div id="otp" class="inputs d-flex flex-row justify-content-center mt-2">
+            <input class="m-2 text-center form-control rounded" type="text" id="first" maxlength="1" t-att-value="first"/>
+            <input class="m-2 text-center form-control rounded" type="text" id="second" maxlength="1" t-att-value="second"/>
+            <input class="m-2 text-center form-control rounded" type="text" id="third" maxlength="1" t-att-value="third"/>
+            <input class="m-2 text-center form-control rounded" type="text" id="fourth" maxlength="1" t-att-value="fourth"/>
+            <input class="m-2 text-center form-control rounded" type="text" id="fifth" maxlength="1" t-att-value="fifth"/>
+            <input class="m-2 text-center form-control rounded" type="text" id="sixth" maxlength="1" t-att-value="sixth"/>
+        </div>
+    </t>
+</templates>
