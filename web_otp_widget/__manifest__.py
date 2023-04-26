@@ -6,7 +6,7 @@
     "summary": "Web Backend OTP Widget",
     "version": "12.0",
     "category": "Website",
-    "website": "https://github.com/btxuyenhcmus/web_otp_widget",
+    "website": "https://github.com/btxuyenhcmus/odoo/tree/12.0/web_otp_widget",
     "author": "Xuyen Bui",
     "license": "LGPL-3",
     "installable": True,
